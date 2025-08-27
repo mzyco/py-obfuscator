@@ -11,6 +11,10 @@
   <i>A lightweight Python code obfuscation website to protect your source code</i>
 </p>
 
+<p align="center">
+  🌏 <a href="README-zh.md">中文说明</a>
+</p>
+
 ---
 
 Website: https://pyob.mzyco.com
